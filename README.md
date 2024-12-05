@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/tahirpackeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahirpackeer" height="30" width="40" /></a>
 <a href="https://instagram.com/tahirpackeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahirpackeer" height="30" width="40" /></a>
 <a href="mailto:tahirpackeer@gmail.com" target="blank">
-    <img align="center" src="https://www.shutterstock.com/shutterstock/photos/578692408/display_1500/stock-vector-email-icon-vector-illustration-style-is-flat-iconic-symbol-cobalt-color-transparent-background-578692408.jpg" alt="tahirpackeer@gmail.com" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/fluency/48/email-open.png" alt="tahirpackeer@gmail.com" height="40" width="43" />
   </a>
 </p>
 
